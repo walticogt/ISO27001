@@ -1,0 +1,159 @@
+El Anexo A.5: Controles Organizativos de la norma ISO 27001 establece un conjunto de controles relacionados con la estructura y gestión organizativa que son esenciales para la correcta implementación del Sistema de Gestión de Seguridad de la Información (SGSI). Estos controles ayudan a garantizar que la seguridad de la información se gestione de manera eficaz a nivel organizacional.
+
+Puntos clave del Anexo A.5:
+5.1 Políticas de seguridad de la información:
+- Control: Se deben definir políticas de seguridad de la información aprobadas por la dirección, y dichas políticas deben estar alineadas con los objetivos y necesidades de la organización.
+- Objetivo: Garantizar que la alta dirección establezca una dirección clara para la seguridad de la información y sus prácticas en la organización.
+
+5.1.1 Políticas de seguridad de la información:
+- Control: Las políticas de seguridad de la información deben estar documentadas, ser comunicadas a todo el personal y ser revisadas a intervalos regulares para asegurar que sigan siendo relevantes.
+- Objetivo: Asegurar que todos los empleados comprendan y sigan las políticas de seguridad.
+
+5.1.2 Revisión de las políticas de seguridad de la información:
+- Control: Las políticas deben ser revisadas periódicamente y cuando sea necesario para adaptarse a cambios organizacionales, tecnológicos o regulatorios.
+- Objetivo: Mantener las políticas actualizadas y relevantes frente a los cambios internos o externos.
+
+5.2 Roles y responsabilidades en seguridad de la información
+- Descripción: Establece claramente quién es responsable de cada aspecto relacionado con la seguridad de la información dentro de la organización.
+- Ejemplo: El CISO (Chief Information Security Officer) es el responsable de la gestión global de la seguridad de la información, mientras que los administradores de sistemas son responsables de implementar los controles en los servidores.
+
+5.3 Segregación de funciones
+- Descripción: Asegura que las funciones que podrían generar un conflicto de interés estén separadas para reducir los riesgos.
+- Ejemplo: Una persona que gestiona los pagos no debe tener acceso para aprobar transacciones. Esto reduce la posibilidad de fraudes.
+
+5.4 Responsabilidades de gestión
+- Descripción: La alta dirección debe estar involucrada en la revisión y supervisión del Sistema de Gestión de Seguridad de la Información (SGSI) para asegurar que sea eficaz.
+- Ejemplo: El equipo directivo debe revisar los informes de auditoría de seguridad y garantizar que se tomen las acciones necesarias para mitigar riesgos.
+
+5.5 Contacto con autoridades
+- Descripción: Establece procedimientos para contactar a las autoridades pertinentes en caso de incidentes de seguridad que puedan requerir la intervención de fuerzas del orden o reguladores.
+- Ejemplo: En caso de una violación de datos que comprometa información personal de clientes, la organización debe notificar a las autoridades locales y cumplir con las leyes de protección de datos.
+
+5.6 Contacto con grupos de interés
+- Descripción: Asegura que la organización mantenga una comunicación fluida con todas las partes interesadas en temas de seguridad de la información.
+- Ejemplo: La organización establece canales de comunicación con sus proveedores y clientes para informarles de incidentes de seguridad relevantes y coordinar respuestas.
+
+5.7 Inteligencia de amenazas
+- Descripción: Implementa mecanismos para recolectar información sobre amenazas y vulnerabilidades emergentes que puedan afectar la organización.
+- Ejemplo: El equipo de seguridad monitorea fuentes de inteligencia cibernética para detectar vulnerabilidades en el software que utiliza la organización y tomar medidas preventivas.
+
+5.8 Seguridad de la información en la gestión de proyectos
+- Descripción: Asegura que la seguridad de la información sea considerada en todas las etapas de los proyectos que involucren cambios en la infraestructura de TI.
+- Ejemplo: Al implementar un nuevo sistema de gestión de clientes, se evalúan los riesgos de seguridad desde la fase de planificación hasta la implementación, y se aplican controles adecuados.
+
+5.9 Inventario de información y otros activos asociados
+- Descripción: Lleva un registro detallado de todos los activos de información, como bases de datos, hardware, software, y asegura su protección adecuada.
+- Ejemplo: La organización mantiene un inventario actualizado de todos los servidores y dispositivos de red, asegurando que cada uno tenga las medidas de seguridad adecuadas.
+
+5.10 Uso aceptable de información y otros activos asociados
+- Descripción: Define las normas de uso aceptable de los sistemas de información y otros activos de la organización.
+- Ejemplo: Los empleados deben seguir una política de uso aceptable que prohíbe el uso de dispositivos corporativos para fines personales y el uso de software no autorizado en los sistemas de la empresa.
+
+5.11 Retorno de activos
+- Descripción: Asegura que los activos de información y otros activos asociados, como dispositivos o software, sean devueltos de manera adecuada al finalizar contratos o relaciones laborales.
+- Ejemplo: Cuando un empleado deja la empresa, debe devolver todos los equipos de la organización (laptops, móviles, etc.) y su acceso a los sistemas debe ser revocado.
+
+5.12 Clasificación de la información
+- Descripción: La información debe clasificarse en función de su sensibilidad, importancia y criticidad, lo que ayudará a determinar el nivel de protección necesario.
+- Ejemplo: Documentos de clientes pueden clasificarse como confidenciales, mientras que la documentación técnica puede ser interna.
+
+5.13 Etiquetado de información
+- Descripción: Establece que la información debe estar etiquetada de acuerdo con su nivel de clasificación para asegurar que las personas sepan cómo manejarla.
+- Ejemplo: Información marcada como "Confidencial" solo puede ser vista por personal autorizado.
+
+5.14 Transferencia de información
+- Descripción: Asegura que la información esté protegida durante su transferencia por medios electrónicos o físicos.
+- Ejemplo: El uso de cifrado al enviar información sensible a través de correos electrónicos.
+
+5.15 Control de acceso
+- Descripción: Implementa controles para que solo las personas autorizadas tengan acceso a la información y a los sistemas.
+- Ejemplo: El uso de sistemas de control de acceso basados en roles (RBAC) para limitar quién puede acceder a ciertos archivos.
+
+5.16 Gestión de identidad
+- Descripción: Gestiona las identidades digitales y garantiza que cada usuario tenga solo los permisos necesarios.
+- Ejemplo: Proporcionar a los empleados nuevos credenciales de acceso con permisos acordes a sus funciones.
+
+5.17 Información de autenticación
+- Descripción: Protege la información de autenticación, como contraseñas o tokens de acceso, para evitar el acceso no autorizado.
+- Ejemplo: El uso de autenticación multifactor (MFA) para acceder a sistemas críticos.
+
+5.18 Derechos de acceso
+- Descripción: Asegura que solo los usuarios con permisos adecuados puedan acceder a los recursos.
+- Ejemplo: Los administradores de sistemas tienen acceso a configuraciones avanzadas, mientras que los usuarios comunes no.
+
+5.19 Seguridad de la información en la relación con proveedores
+- Descripción: Establece controles para asegurar que los proveedores cumplan con los requisitos de seguridad de la información.
+- Ejemplo: Exigir que los proveedores firmen acuerdos de confidencialidad y sigan prácticas de seguridad alineadas con la organización.
+
+5.20 Abordar la seguridad de la información dentro de los acuerdos de proveedores
+- Descripción: Garantiza que los acuerdos con proveedores incluyan cláusulas de seguridad de la información.
+- Ejemplo: Incluir en los contratos con proveedores una sección que detalla cómo protegerán la información de la organización y cómo notificarán incidentes de seguridad.
+
+5.21 Gestión de la seguridad de la información en la cadena de suministro de las TIC
+- Descripción: Establece controles para asegurar que los proveedores y la cadena de suministro de las Tecnologías de la Información y Comunicación (TIC) cumplan con los requisitos de seguridad de la organización.
+- Ejemplo: El hotel realiza auditorías periódicas de sus proveedores de software de reservas para asegurar que cumplen con los estándares de seguridad exigidos, como la protección de datos de los clientes.
+
+5.22 Monitoreo, revisión y gestión del cambio en los servicios de los proveedores
+- Descripción: Garantiza que cualquier cambio en los servicios ofrecidos por los proveedores sea monitoreado y evaluado para garantizar que no comprometa la seguridad de la información.
+- Ejemplo: El hotel evalúa y prueba cualquier actualización o cambio que el proveedor de su sistema de reservas implemente antes de ponerlo en funcionamiento.
+
+5.23 Seguridad de la información para el uso de servicios Cloud
+- Descripción: Asegura que el uso de servicios en la nube esté protegido por controles de seguridad adecuados.
+- Ejemplo: Los datos de los clientes almacenados en un servidor en la nube deben estar cifrados tanto en reposo como en tránsito, y solo personal autorizado debe tener acceso a ellos.
+
+5.24 Planificación y gestión de incidentes de seguridad de la información
+- Descripción: Establece procedimientos claros para planificar y gestionar los incidentes de seguridad de la información.
+- Ejemplo: El hotel tiene un plan de respuesta ante incidentes que detalla cómo reaccionar en caso de un ataque de ransomware que afecte los sistemas de reservas.
+
+5.25 Evaluación y decisión en eventos de seguridad de la información
+- Descripción: Requiere que los eventos de seguridad de la información se evalúen adecuadamente para tomar decisiones oportunas y efectivas.
+- Ejemplo: Si un ataque DDoS afecta el sitio web de reservas del hotel, el equipo de TI debe evaluar el impacto y decidir si activar un plan de contingencia para garantizar la disponibilidad del servicio.
+
+5.26 Respuesta a incidentes de seguridad de la información
+- Descripción: Define cómo debe reaccionar la organización ante un incidente de seguridad de la información.
+- Ejemplo: Si se detecta una violación de datos de huéspedes, el hotel debe activar su plan de respuesta para contener la brecha, informar a las autoridades y notificar a los clientes afectados.
+
+5.27 Aprendizaje sobre los incidentes de seguridad de la información
+- Descripción: Establece mecanismos para aprender de los incidentes de seguridad pasados y mejorar los controles de seguridad.
+- Ejemplo: Tras un ataque de phishing que afectó a varios empleados, el hotel implementa capacitaciones regulares de concienciación sobre ciberseguridad para prevenir futuros incidentes.
+
+5.28 Recopilación de evidencia
+- Descripción: Garantiza que cualquier evidencia relacionada con un incidente de seguridad sea recopilada y preservada adecuadamente para investigaciones posteriores.
+- Ejemplo: El equipo de TI del hotel sigue procedimientos estandarizados para recopilar registros de auditoría y otras evidencias digitales cuando ocurre una violación de datos, preservándolas para un análisis forense.
+
+5.29 Seguridad de la información durante la ruptura
+- Descripción: Asegura que la seguridad de la información se mantenga incluso durante situaciones de interrupción o ruptura de los servicios.
+- Ejemplo: En caso de un corte de energía, los sistemas críticos del hotel, como el sistema de reservas y las cámaras de seguridad, siguen funcionando gracias a los respaldos y generadores, asegurando que no se pierda la información.
+
+5.30 Preparación de las TIC para la continuidad del negocio
+- Descripción: Establece medidas para asegurar que los sistemas TIC estén preparados para mantener la continuidad del negocio ante incidentes disruptivos.
+- Ejemplo: El hotel realiza pruebas regulares de su plan de recuperación ante desastres para asegurarse de que los sistemas clave, como el sistema de gestión hotelera, puedan recuperarse rápidamente tras un fallo técnico.
+
+5.31 Requisitos contractuales, legales, estatutarios y regulatorios
+- Descripción: Asegura que la organización cumple con todas las leyes, regulaciones y requisitos contractuales aplicables en cuanto a la seguridad de la información.
+- Ejemplo: El hotel se asegura de cumplir con el Reglamento General de Protección de Datos (GDPR) para proteger la información personal de los huéspedes y evitar sanciones legales.
+
+5.32 Derechos de propiedad intelectual
+- Descripción: Protege los derechos de propiedad intelectual de la organización y de terceros, asegurando que no se violen patentes, derechos de autor, marcas comerciales u otros derechos.
+- Ejemplo: El hotel se asegura de que las imágenes y el software utilizados en su sitio web estén licenciados correctamente y no infrinjan derechos de propiedad intelectual de terceros.
+
+5.33 Protección de registros
+- Descripción: Asegura que los registros, tanto físicos como electrónicos, estén protegidos contra acceso no autorizado, destrucción o manipulación.
+- Ejemplo: Los registros financieros y de reservas del hotel se almacenan en un servidor seguro con controles de acceso estrictos, y se realizan copias de seguridad periódicas para evitar pérdida de datos.
+
+5.34 Privacidad y protección de la información de identificación personal
+- Descripción: Establece medidas para proteger la información personal identificable (PII), asegurando la privacidad de las personas.
+- Ejemplo: El hotel cifra los datos personales de los huéspedes, como nombres y números de tarjeta de crédito, y solicita el consentimiento antes de compartir cualquier información con terceros.
+
+5.35 Revisión independiente de seguridad de la información
+- Descripción: Requiere que se realicen revisiones independientes de la seguridad de la información para asegurar la objetividad y detectar posibles problemas no identificados internamente.
+- Ejemplo: El hotel contrata una auditoría externa para revisar sus controles de seguridad de la información y asegurarse de que están alineados con las mejores prácticas.
+
+5.36 Cumplimiento de políticas, reglas y estándares para la seguridad de la información
+- Descripción: Asegura que la organización cumpla con sus propias políticas internas, reglas y estándares relacionados con la seguridad de la información.
+- Ejemplo: El departamento de TI del hotel revisa regularmente que se cumplan las políticas de contraseñas seguras y las normas para el uso aceptable de los sistemas informáticos.
+
+5.37 Procesos operativos documentados
+- Descripción: Asegura que los procesos operativos críticos para la seguridad de la información estén documentados para garantizar la coherencia y la facilidad de auditoría.
+- Ejemplo: Los procedimientos de manejo de incidencias de seguridad, como la respuesta ante un ciberataque, están documentados y disponibles para el equipo de TI y la dirección del hotel.
+

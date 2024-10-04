@@ -1,0 +1,20 @@
+El Capítulo 7.1: Recursos de la norma ISO/IEC 27001:2022 se enfoca en asegurar que la organización proporcione los recursos necesarios para el establecimiento, implementación, mantenimiento y mejora continua del Sistema de Gestión de Seguridad de la Información (SGSI).
+
+Puntos clave del Capítulo 7.1: Recursos
+Identificación de Recursos Necesarios: La organización debe identificar y evaluar los recursos que se necesitan para operar el SGSI de manera efectiva. Estos recursos pueden ser:
+
+Humanos: Personal con las competencias adecuadas para implementar y gestionar el SGSI.
+Tecnológicos: Herramientas y sistemas de seguridad (software, hardware, equipos) necesarios para proteger la información.
+Financieros: Presupuesto asignado para la seguridad de la información.
+Infraestructura: Espacios físicos, instalaciones y equipos necesarios para mantener la seguridad.
+Asignación de Recursos Adecuados: La organización debe asegurarse de que los recursos identificados estén disponibles y se asignen de manera efectiva. Esto incluye:
+
+Contratar o capacitar personal calificado para roles específicos del SGSI.
+Adquirir o actualizar herramientas y tecnologías de seguridad.
+Proporcionar financiamiento para implementar y mantener los controles de seguridad.
+Soporte Continuo: El compromiso de la organización de proporcionar recursos debe ser continuo para garantizar la eficacia y mejora del SGSI, especialmente a medida que evolucionan los riesgos de seguridad de la información.
+
+Importancia del Capítulo 7.1
+El capítulo 7.1 es fundamental porque garantiza que la organización cuente con los recursos necesarios para implementar y mantener un SGSI efectivo. Sin los recursos adecuados, sería difícil cumplir con los requisitos de la norma y garantizar la protección de la información de la organización.
+
+Este capítulo resalta la necesidad de compromiso y apoyo de la alta dirección para asignar los recursos necesarios, lo que es clave para el éxito y la sostenibilidad del SGSI.

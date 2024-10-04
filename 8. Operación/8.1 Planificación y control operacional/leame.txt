@@ -1,0 +1,26 @@
+El Capítulo 8.1: Planificación y control operacional de la norma ISO/IEC 27001:2022 se enfoca en garantizar que la organización implemente, opere y controle los procesos necesarios para cumplir con los requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) y alcanzar sus objetivos de seguridad.
+
+Puntos clave del Capítulo 8.1: Planificación y Control Operacional
+
+1. Implementación y Operación de Procesos:
+
+- La organización debe planificar, implementar y controlar los procesos necesarios para gestionar los riesgos de seguridad de la información de manera eficaz.
+- Esto implica establecer procedimientos y controles que aseguren la correcta gestión de la seguridad de la información en la operación diaria.
+
+2. Criterios de Control:
+
+- Definir los criterios para operar los procesos del SGSI y asegurarse de que se siguen de manera constante.
+- Los criterios pueden incluir políticas, procedimientos, controles de acceso, y medidas de seguridad que deben aplicarse para mantener la seguridad de la información.
+
+3. Gestión de Cambios:
+
+- La organización debe controlar cualquier cambio que pueda afectar la seguridad de la información, asegurándose de que los cambios en los procesos y controles estén debidamente planificados, aprobados y gestionados.
+- Esto incluye evaluaciones de riesgos y revisiones de los cambios antes de su implementación.
+
+4. Documentación de Evidencia:
+
+- Mantener registros documentados que demuestren que los procesos del SGSI se han implementado y están operando de acuerdo con los criterios establecidos.
+- Esta evidencia es fundamental para las auditorías y para demostrar la eficacia del SGSI.
+
+Importancia del Capítulo 8.1
+Este capítulo es crucial porque asegura que las actividades operativas del SGSI están controladas y alineadas con los objetivos de seguridad de la información de la organización. Garantiza que los procesos sean consistentes, gestionados y adaptables a los cambios, lo que permite a la organización responder de manera efectiva a los riesgos y amenazas que puedan surgir.

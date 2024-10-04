@@ -1,0 +1,28 @@
+El capítulo 9.2 de la norma ISO 27001 se centra en los requisitos para la realización de auditorías internas en el Sistema de Gestión de la Seguridad de la Información (SGSI) de una organización. A continuación, se presentan los aspectos clave de esta sección:
+
+9.2.1. Generalidades
+
+La organización debe llevar a cabo auditorías internas a intervalos planificados para evaluar si el SGSI:
+
+- Cumple con los requisitos establecidos por la propia organización y con los de la norma ISO 27001.
+
+- Está implementado y mantenido de manera efectiva.
+
+
+9.2.2. Programa de auditoría interna
+
+Es responsabilidad de la organización planificar, establecer, implementar y mantener uno o varios programas de auditoría que incluyan:
+
+- Frecuencia: Determinar la periodicidad de las auditorías en función de la importancia de los procesos y los resultados de auditorías anteriores.
+
+- Métodos: Establecer los enfoques y técnicas a utilizar durante las auditorías.
+
+- Responsabilidades: Asignar roles y responsabilidades para la planificación, ejecución y seguimiento de las auditorías.
+
+- Requisitos de planificación: Definir los criterios y el alcance de cada auditoría, asegurando una cobertura adecuada de los procesos y controles del SGSI.
+
+- Informes: Establecer un sistema para la documentación y comunicación de los resultados de las auditorías a las partes interesadas pertinentes.
+
+Al desarrollar el programa de auditoría, la organización debe considerar la relevancia de los procesos a auditar y los hallazgos de auditorías previas para asegurar una evaluación efectiva del SGSI (PMG SSI).
+
+La realización de auditorías internas según lo establecido en el capítulo 9.2 de ISO 27001 es fundamental para mantener la eficacia y la mejora continua del SGSI, garantizando así la protección adecuada de la información de la organización.

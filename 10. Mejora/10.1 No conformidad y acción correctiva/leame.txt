@@ -1,0 +1,30 @@
+El capítulo 10.1 de la norma ISO 27001 se refiere a la evaluación de las no conformidades y la aplicación de acciones correctivas en el Sistema de Gestión de Seguridad de la Información (SGSI). Su objetivo es asegurar que las no conformidades identificadas sean tratadas de manera adecuada para mejorar continuamente la eficacia del SGSI.
+
+Puntos clave de 10.1:
+1. Reacción ante las no conformidades:
+
+- Cuando se identifica una no conformidad (por ejemplo, un fallo de seguridad, incumplimiento de las políticas o controles inadecuados), la organización debe reaccionar de inmediato.
+- Se debe tomar acción para controlar y corregir la no conformidad, y gestionar las consecuencias que puedan derivarse de ella.
+
+2. Investigación de la causa raíz:
+
+- Es necesario realizar una investigación para identificar las causas fundamentales de la no conformidad.
+- El objetivo es asegurarse de que no se repita en el futuro. Esto puede incluir el análisis de los procesos, la evaluación de los controles existentes y la revisión de las prácticas actuales.
+
+3. Determinación de acciones correctivas:
+
+- La organización debe establecer acciones correctivas para eliminar las causas de la no conformidad.
+- Estas acciones deben ser proporcionales a la magnitud de los problemas y al impacto potencial en la seguridad de la información.
+
+4. Seguimiento y evaluación:
+
+- Las acciones correctivas implementadas deben ser monitoreadas y evaluadas para garantizar su eficacia.
+- Se debe revisar si la no conformidad se ha corregido adecuadamente y si se han prevenido futuros incidentes.
+
+5. Actualización de la documentación:
+
+- Cualquier cambio en los procesos o controles del SGSI, derivado de las acciones correctivas, debe ser documentado.
+- Esto incluye actualizar las políticas, procedimientos o cualquier otra documentación relacionada con el SGSI.
+
+Resultado:
+El proceso descrito en el capítulo 10.1 busca garantizar que el SGSI no solo responda de manera reactiva ante los incidentes, sino que también promueva una mejora continua para prevenir la recurrencia de los problemas, aumentando así la seguridad y resiliencia de la organización.

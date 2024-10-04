@@ -1,0 +1,25 @@
+El capítulo 10.2 de la norma ISO 27001 está relacionado con la mejora continua del Sistema de Gestión de Seguridad de la Información (SGSI). Este capítulo enfatiza que la organización debe mejorar de forma continua la idoneidad, adecuación y eficacia del SGSI para adaptarse a las circunstancias cambiantes y los riesgos emergentes.
+
+Puntos clave de 10.2:
+1. Mejora continua:
+
+- La organización debe implementar un proceso estructurado de mejora continua del SGSI, asegurándose de que las prácticas de seguridad de la información evolucionen con el tiempo.
+- Este proceso debe garantizar que el SGSI sea cada vez más eficaz para gestionar los riesgos de seguridad de la información y cumplir con los requisitos establecidos.
+
+2. Revisión y actualización de controles:
+
+- A medida que se detectan oportunidades de mejora, los controles de seguridad deben ser revisados y actualizados.
+- Esto incluye la incorporación de nuevas tecnologías, mejores prácticas y lecciones aprendidas de incidentes de seguridad o auditorías.
+
+3. Aprendizaje de las evaluaciones y auditorías:
+
+- La mejora del SGSI debe basarse en los hallazgos de auditorías internas y externas, análisis de riesgos y otras evaluaciones.
+- Las lecciones aprendidas de incidentes previos y las no conformidades también deben contribuir al proceso de mejora continua.
+
+4. Ajustes en los objetivos de seguridad:
+
+A medida que se producen mejoras en el SGSI, la organización debe revisar y, si es necesario, ajustar los objetivos de seguridad de la información.
+Esto puede incluir la modificación de las metas de seguridad para hacer frente a nuevos riesgos o para alinearse mejor con los objetivos estratégicos de la organización.
+
+Resultado:
+El capítulo 10.2 garantiza que el SGSI no sea un sistema estático, sino que evolucione continuamente para enfrentar nuevas amenazas y vulnerabilidades. La mejora continua ayuda a la organización a fortalecer su postura de seguridad y a mantenerse al día con los cambios en el entorno de seguridad de la información.

@@ -1,0 +1,17 @@
+La norma 7.4 de ISO/IEC 27001:2022, titulada "Comunicación", se enfoca en establecer los requisitos para la comunicación efectiva dentro del Sistema de Gestión de Seguridad de la Información (SGSI). Esta sección asegura que se definan y gestionen los procesos de comunicación necesarios para garantizar que la información relevante sobre la seguridad de la información se comparta de manera adecuada dentro y fuera de la organización.
+
+Puntos clave de la norma 7.4: Comunicación
+Definir qué comunicar: La organización debe determinar qué tipo de información relacionada con la seguridad de la información necesita comunicarse. Esto puede incluir políticas, procedimientos, cambios importantes en el SGSI, incidentes de seguridad, y actualizaciones de controles de seguridad.
+
+Determinar cuándo comunicar: Establecer la frecuencia y los momentos en los que se realizará la comunicación, ya sea de forma periódica, como parte de informes regulares, o cuando ocurra un evento específico (por ejemplo, un incidente de seguridad).
+
+Identificar a quién comunicar: Definir claramente las partes interesadas que necesitan recibir la información, tanto internas (empleados, directivos, departamentos) como externas (proveedores, clientes, autoridades reguladoras).
+
+Definir cómo comunicar: Seleccionar los métodos y canales de comunicación más apropiados para la organización, como correos electrónicos, reuniones, informes, paneles de control, intranet, entre otros.
+
+Asignar responsabilidades: Establecer quién será responsable de realizar las comunicaciones y asegurarse de que los mensajes se transmitan de manera efectiva y oportuna.
+
+Importancia de la Norma 7.4: Comunicación
+La comunicación efectiva es crucial para el funcionamiento de un SGSI, ya que garantiza que todas las partes interesadas estén informadas y alineadas con los objetivos y requisitos de seguridad de la información. La norma 7.4 asegura que la información relevante sobre la seguridad sea compartida de manera adecuada, lo que facilita la concienciación, la implementación de controles y la respuesta a incidentes.
+
+Este proceso de comunicación bien estructurado es fundamental para mantener la seguridad de la información y garantizar que el SGSI sea eficaz y cumpla con los requisitos de la norma ISO/IEC 27001.

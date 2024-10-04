@@ -1,0 +1,30 @@
+El Capítulo 8.2: Evaluación y tratamiento de riesgos de seguridad de la información de la norma ISO/IEC 27001:2022 se enfoca en cómo una organización debe identificar, evaluar y tratar los riesgos relacionados con la seguridad de la información para garantizar que estén gestionados de manera efectiva.
+
+Puntos clave del Capítulo 8.2: Evaluación y Tratamiento de Riesgos
+
+1. Evaluación de Riesgos:
+
+- La organización debe establecer y aplicar un proceso para identificar los riesgos de seguridad de la información que puedan afectar sus operaciones, activos o datos.
+- Los riesgos deben ser evaluados en términos de su probabilidad de ocurrencia y el impacto que tendrían en la organización si se materializan.
+- Es necesario documentar la metodología utilizada para la evaluación de riesgos, asegurando que sea coherente y repetible.
+
+2. Tratamiento de Riesgos:
+
+- Una vez identificados y evaluados los riesgos, la organización debe seleccionar opciones de tratamiento que reduzcan o eliminen esos riesgos.
+- Las opciones de tratamiento de riesgos incluyen:
+* Mitigar: Implementar controles para reducir la probabilidad o el impacto del riesgo.
+* Evitar: Cambiar la actividad que genera el riesgo para eliminarlo.
+* Transferir: Transferir el riesgo a un tercero, como una compañía de seguros.
+* Aceptar: Reconocer que el riesgo existe y decidir no tomar medidas adicionales si es tolerable.
+- La organización debe elaborar un Plan de Tratamiento de Riesgos que detalle las acciones que se tomarán para gestionar cada riesgo identificado.
+
+3. Revisión y Aprobación:
+
+- El proceso de evaluación y tratamiento de riesgos debe ser revisado y aprobado por la alta dirección para asegurar que sea adecuado y eficaz.
+
+4. Documentación y Registro:
+
+- Mantener registros de los resultados de la evaluación de riesgos y del tratamiento de riesgos para demostrar conformidad y permitir su seguimiento.
+
+Importancia del Capítulo 8.2
+Este capítulo es fundamental para asegurar que la organización gestione los riesgos de seguridad de la información de manera estructurada y proactiva. Al evaluar y tratar los riesgos de manera sistemática, la organización puede reducir la probabilidad y el impacto de incidentes que puedan comprometer la confidencialidad, integridad y disponibilidad de su información.

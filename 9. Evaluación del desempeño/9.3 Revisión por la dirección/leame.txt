@@ -1,0 +1,24 @@
+El capítulo 9.3 de la norma ISO 27001 se centra en la revisión por la dirección del Sistema de Gestión de Seguridad de la Información (SGSI). El objetivo es asegurarse de que el SGSI sigue siendo adecuado, eficaz y alineado con los objetivos de la organización. A continuación, se resumen los puntos clave:
+
+9.3.1. Generalidades
+La alta dirección debe revisar el SGSI a intervalos planificados para asegurarse de su continua idoneidad, adecuación y eficacia. Esta revisión debe considerar cualquier cambio en el entorno interno o externo que afecte la seguridad de la información.
+
+9.3.2. Entradas para la revisión
+La revisión debe basarse en información relevante, que puede incluir:
+
+- Resultados de auditorías internas y externas.
+- Feedback o retroalimentación de partes interesadas.
+- El estado de las acciones preventivas y correctivas.
+- Cambios que puedan afectar la seguridad de la información, como nuevas amenazas o vulnerabilidades.
+- Resultados de la medición de la eficacia de los controles de seguridad.
+- El cumplimiento de los objetivos de seguridad de la información establecidos.
+- Oportunidades de mejora del SGSI.
+
+9.3.3. Salidas de la revisión
+Las salidas o resultados de la revisión deben incluir decisiones y acciones relacionadas con:
+
+- Posibles cambios en la política de seguridad de la información o en los objetivos del SGSI.
+- Necesidades de recursos adicionales para mejorar el SGSI.
+- Oportunidades de mejora identificadas en el sistema.
+- Acciones para mejorar la eficacia del SGSI y abordar riesgos o incidentes recientes.
+- Este proceso de revisión asegura que la alta dirección esté activamente involucrada en la mejora continua del SGSI y que se tomen decisiones informadas para gestionar la seguridad de la información de manera eficaz en la organización.

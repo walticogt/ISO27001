@@ -1,0 +1,18 @@
+El Capítulo 7.3: Concienciación de la norma ISO/IEC 27001:2022 se enfoca en garantizar que todas las personas que trabajan para la organización o en su nombre sean conscientes de la importancia de la seguridad de la información y de cómo su comportamiento y acciones impactan en el Sistema de Gestión de Seguridad de la Información (SGSI).
+
+Puntos clave del Capítulo 7.3: Concienciación
+
+1. Comprender la Política de Seguridad de la Información:
+- Los empleados y contratistas deben estar al tanto de la política de seguridad de la información de la organización.
+- Es fundamental que conozcan los objetivos y los principios clave que rigen la seguridad de la información.
+
+2. Conocer su Contribución al SGSI:
+- Las personas deben ser conscientes de cómo sus tareas y funciones contribuyen al éxito del SGSI.
+- Esto incluye comprender cómo sus acciones diarias pueden ayudar a proteger la confidencialidad, integridad y disponibilidad de la información.
+
+3. Reconocer las Implicaciones de los Incumplimientos:
+- Los empleados deben estar informados sobre las posibles consecuencias de no cumplir con los requisitos de seguridad de la información.
+- Esto abarca entender el impacto de las infracciones, tanto en términos de riesgos para la organización como de sanciones disciplinarias.
+
+Importancia del Capítulo 7.3
+Este capítulo es fundamental para fomentar una cultura de seguridad en la organización. La concienciación ayuda a garantizar que el personal esté informado y comprometido con la protección de la información, lo que reduce el riesgo de errores humanos y comportamientos negligentes que podrían comprometer la seguridad. Un personal bien informado y consciente es un elemento esencial para el éxito y la eficacia del SGSI.

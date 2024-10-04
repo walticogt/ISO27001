@@ -1,0 +1,22 @@
+El Capítulo 7.5: Información Documentada de la norma ISO/IEC 27001:2022 se refiere a la creación, actualización y control de la documentación necesaria para el funcionamiento eficaz del Sistema de Gestión de Seguridad de la Información (SGSI). La información documentada es crucial para asegurar que el SGSI sea comprensible, accesible y esté bajo control.
+
+Puntos clave del Capítulo 7.5: Información Documentada
+
+1. Creación y Actualización (7.5.1):
+
+- La organización debe asegurarse de que la información documentada es apropiada en términos de identificación, formato (por ejemplo, papel o digital), medios de soporte, lenguaje y redacción.
+- Se deben definir procesos para la creación y actualización de la documentación, asegurando que la información sea clara, precisa y que esté al día.
+
+2. Control de la Información Documentada (7.5.2):
+
+- La documentación debe estar controlada y gestionada de manera que se garantice su protección, legibilidad y disponibilidad.
+- Se deben definir controles para:
+* Distribución: Quién tiene acceso a la documentación.
+* Acceso: Quién puede leer o modificar la documentación.
+* Recuperación y uso: Cómo se puede acceder y utilizar la información documentada.
+* Almacenamiento y preservación: Cómo se almacena y protege contra daños o pérdida.
+* Control de cambios: Cómo se actualiza y revisa la documentación.
+* Retención y disposición: Cómo y cuándo se elimina la documentación que ya no es necesaria.
+
+Importancia del Capítulo 7.5
+La gestión adecuada de la información documentada es fundamental para garantizar la consistencia, trazabilidad y evidencia del cumplimiento de los requisitos del SGSI. La documentación proporciona un registro de las políticas, procedimientos, procesos y controles que permiten a la organización operar de manera efectiva y demostrar la conformidad con ISO/IEC 27001.

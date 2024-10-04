@@ -1,0 +1,6 @@
+El Anexo A no es un capítulo en sí, pero es una parte fundamental de ISO/IEC 27001 y contiene 93 controles de seguridad organizados en 4 temas principales:
+
+A.5: Controles organizativos
+A.6: Controles de personas
+A.7: Controles físicos
+A.8: Controles tecnológicos

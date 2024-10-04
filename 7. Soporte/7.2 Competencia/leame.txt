@@ -1,0 +1,23 @@
+El Capítulo 7.2: Competencia de la norma ISO/IEC 27001:2022 se enfoca en asegurar que todas las personas que realizan trabajos bajo el Sistema de Gestión de Seguridad de la Información (SGSI) posean las competencias adecuadas para desempeñar sus funciones de manera efectiva en relación con la seguridad de la información.
+
+Puntos clave del Capítulo 7.2: Competencia
+Identificación de Competencias Necesarias:
+
+La organización debe identificar las competencias requeridas para el personal que trabaja en roles que afectan la seguridad de la información.
+Esto incluye conocimientos, habilidades y experiencia necesarias para implementar y mantener el SGSI.
+Evaluación y Aseguramiento de la Competencia:
+
+Se debe evaluar si el personal cumple con las competencias requeridas.
+La evaluación puede basarse en su educación, formación previa, experiencia laboral y habilidades técnicas.
+Acciones para Desarrollar Competencias:
+
+Si se detectan brechas de competencia, la organización debe tomar medidas para abordarlas. Esto puede incluir:
+Formación y capacitación.
+Participación en talleres y seminarios.
+Obtención de certificaciones relevantes para la seguridad de la información.
+Conservación de Evidencias:
+
+La organización debe mantener registros documentados que demuestren la competencia del personal. Estos registros pueden incluir certificados de capacitación, evaluaciones de desempeño, y evidencia de experiencia.
+
+Importancia del Capítulo 7.2
+El Capítulo 7.2 es crucial para garantizar que el SGSI sea gestionado y operado por personal competente y cualificado, lo que contribuye a la eficacia y éxito del sistema. Tener un equipo competente es fundamental para asegurar que los riesgos de seguridad de la información se gestionen adecuadamente y que se implementen los controles de seguridad de manera eficaz.
