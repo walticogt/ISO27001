@@ -1,0 +1,26 @@
+El capítulo 2 de la ISO 27001 se refiere al contexto de la organización. Este capítulo es fundamental porque ayuda a definir el entorno en el que opera el Sistema de Gestión de Seguridad de la Información (SGSI), asegurando que se alineen los objetivos de la organización con las prácticas de seguridad de la información.
+
+Puntos clave del capítulo 2:
+2.1 Comprensión de la organización y su contexto:
+
+- Descripción: La organización debe identificar factores internos y externos que puedan afectar la capacidad del SGSI para alcanzar sus objetivos. Estos factores pueden incluir la estructura de la organización, su cultura, las regulaciones legales y el entorno competitivo.
+- Ejemplo: Una empresa de comercio electrónico debe considerar los factores legales relacionados con la protección de datos en diferentes países, así como las amenazas cibernéticas comunes en su sector.
+
+2.2 Comprensión de las necesidades y expectativas de las partes interesadas:
+
+- Descripción: La organización debe identificar a las partes interesadas que son relevantes para el SGSI (empleados, clientes, proveedores, reguladores) y sus expectativas respecto a la seguridad de la información.
+- Ejemplo: Un banco identifica a sus clientes y reguladores como partes interesadas clave, por lo que se asegura de cumplir con las normativas de protección de datos financieras y de satisfacer las expectativas de seguridad de sus clientes.
+
+2.3 Determinación del alcance del sistema de gestión de seguridad de la información:
+
+- Descripción: La organización debe definir el alcance del SGSI en términos de las unidades organizativas, actividades, productos y servicios que serán cubiertos por el sistema.
+- Ejemplo: Un hospital define el alcance de su SGSI para incluir la protección de los registros médicos electrónicos, sistemas de administración de pacientes y bases de datos internas.
+
+2.4 Sistema de Gestión de Seguridad de la Información (SGSI):
+
+- Descripción: La organización debe establecer, implementar, mantener y mejorar continuamente un SGSI alineado con los requisitos de la norma ISO 27001 y sus objetivos de negocio.
+- Ejemplo: Una empresa de software establece un SGSI que cubre la seguridad de sus servidores de desarrollo, las plataformas de prueba y el almacenamiento en la nube donde guarda datos de clientes.
+
+
+Resultado:
+El capítulo 2 establece las bases para el desarrollo del SGSI, alineando las prácticas de seguridad de la información con el contexto organizativo, las expectativas de las partes interesadas y las necesidades específicas de la organización. Este capítulo es clave para garantizar que el sistema de seguridad sea eficaz y adecuado para el entorno específico en el que opera la organización.

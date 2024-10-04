@@ -1,0 +1,28 @@
+El capítulo 4.3 de la ISO 27001 se titula Determinación del alcance del sistema de gestión de seguridad de la información (SGSI). En este capítulo, se explica cómo las organizaciones deben definir el alcance de su SGSI para asegurar que cubra todas las áreas relevantes y no omita aspectos críticos.
+
+Puntos clave del capítulo 4.3:
+
+1. Definición del alcance:
+
+- Descripción: La organización debe establecer claramente qué partes de su negocio, procesos, servicios y sistemas estarán cubiertos por el SGSI. Esto incluye determinar qué activos de información necesitan ser protegidos y cuáles son los límites organizacionales, físicos y tecnológicos del SGSI.
+- Ejemplo: En un hotel, el alcance podría incluir todos los sistemas relacionados con la gestión de reservas, la red de Wi-Fi para huéspedes, los datos de los empleados y las bases de datos con información de tarjetas de crédito de los clientes.
+
+2. Consideración de interfaces y dependencias:
+
+- Descripción: La organización debe identificar cualquier dependencia externa o interna que pueda afectar la seguridad de la información. Estas interfaces incluyen proveedores externos, socios de negocio, y cualquier sistema que interactúe con el SGSI.
+- Ejemplo: Un hotel que utiliza un proveedor externo para su sistema de reservas debe incluir esa relación en el alcance de su SGSI, ya que cualquier brecha de seguridad en el sistema externo puede afectar la información del hotel.
+
+3. Justificación del alcance:
+
+- Descripción: La organización debe justificar por qué ha delimitado el alcance del SGSI de cierta manera. Esto implica explicar qué ha sido incluido y excluido, basándose en la criticidad de los activos de información y las posibles amenazas.
+- Ejemplo: Si un hotel decide excluir los datos de su programa de fidelización de huéspedes del SGSI porque están administrados por un tercero con su propio SGSI, debe justificar esta exclusión.
+
+4. Alineación con objetivos de la organización:
+
+- Descripción: El alcance del SGSI debe estar alineado con los objetivos estratégicos de la organización. Esto asegura que el SGSI esté diseñado para proteger la información que es más valiosa y crítica para los objetivos del negocio.
+- Ejemplo: Un hotel cuyo objetivo principal es la satisfacción del cliente debe asegurarse de que la protección de los datos personales y financieros de los huéspedes esté incluida en el alcance del SGSI.
+
+Resultado:
+El capítulo 4.3 asegura que el SGSI de la organización tenga un alcance claro, bien definido y alineado con los objetivos y riesgos críticos de la organización. Esto permite una protección adecuada de los activos de información más importantes, evitando la inclusión innecesaria de áreas menos relevantes o la exclusión de partes críticas.
+
+Este enfoque garantiza que el SGSI sea completo, efectivo y diseñado específicamente para las necesidades de la organización, lo que resulta en una gestión de seguridad más precisa y orientada a los riesgos reales.

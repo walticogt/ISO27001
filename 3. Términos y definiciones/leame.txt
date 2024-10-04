@@ -1,0 +1,22 @@
+El capítulo 3 de la ISO 27001 se refiere a los Términos y Definiciones. Este capítulo es esencial porque proporciona una base común de entendimiento sobre los términos clave utilizados en el estándar, garantizando que todos los que implementan y mantienen un Sistema de Gestión de Seguridad de la Información (SGSI) lo hagan bajo el mismo marco conceptual.
+
+Puntos clave del capítulo 3:
+1. Términos comunes en el SGSI:
+
+- Descripción: Define términos específicos relacionados con la gestión de la seguridad de la información, como “activo”, “amenaza”, “vulnerabilidad”, “riesgo”, “incidente de seguridad”, entre otros.
+- Ejemplo: Un activo podría ser la información de clientes o los sistemas informáticos; una amenaza podría ser un ataque de malware; y una vulnerabilidad podría ser un fallo de configuración en el firewall.
+
+2. Definiciones sobre gestión de riesgos:
+
+- Descripción: Explica conceptos relacionados con la gestión del riesgo, como la “evaluación del riesgo”, “tratamiento del riesgo” y “tolerancia al riesgo”.
+- Ejemplo: La evaluación del riesgo implica identificar qué activos están en riesgo y cómo protegerlos; el tratamiento del riesgo implica implementar controles para mitigarlos.
+
+3. Términos sobre controles de seguridad:
+
+- Descripción: Define lo que se entiende por controles en la seguridad de la información y su propósito dentro del SGSI.
+- Ejemplo: Un control de seguridad puede ser un software antivirus, la implementación de políticas de acceso restringido o la capacitación en seguridad de los empleados.
+
+Resultado:
+El capítulo 3 no tiene un enfoque práctico en sí mismo, pero es fundamental para asegurar que todas las personas involucradas en el SGSI entiendan y usen los términos clave de manera consistente. Esto garantiza que la implementación y gestión del SGSI sea coherente y alineada con los estándares globales, reduciendo el riesgo de malinterpretaciones o fallos en el proceso de seguridad de la información.
+
+Este capítulo proporciona la base terminológica sobre la cual se construyen los capítulos más operativos del estándar.
