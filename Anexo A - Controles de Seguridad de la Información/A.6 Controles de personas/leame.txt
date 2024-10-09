@@ -1,0 +1,37 @@
+Anexo A.7 de la ISO 27001, enfocados en los Controles de Personas. A continuación, te explico y amplío cada uno de estos puntos en detalle:
+
+6.1 Comprobaciones de verificación de antecedentes
+- Descripción: Antes de contratar a una persona para un puesto crítico en la organización, es esencial realizar verificaciones de antecedentes para asegurarse de que los candidatos tengan las cualificaciones y la integridad necesarias para el rol. Este control busca mitigar los riesgos derivados del acceso a información sensible.
+- Ejemplo: Antes de contratar a un administrador de sistemas en un hotel, se realizan verificaciones de antecedentes para asegurar que la persona no haya estado involucrada en fraudes o delitos cibernéticos.
+
+6.2 Términos y condiciones para el empleo
+- Descripción: Los contratos de empleo deben incluir cláusulas claras sobre las responsabilidades de seguridad de la información, así como sobre la confidencialidad y el manejo de datos sensibles. Esto asegura que los empleados estén legalmente comprometidos a cumplir con las políticas de seguridad de la organización.
+- Ejemplo: Un hotel incluye en sus contratos de trabajo una cláusula de confidencialidad que especifica que los empleados no pueden compartir datos de los huéspedes sin autorización.
+
+6.3 Educación, entrenamiento y conciencia de seguridad de la información
+- Descripción: Todos los empleados deben recibir formación regular sobre los riesgos de seguridad de la información y cómo proteger los datos que manejan en su trabajo diario. La concienciación es fundamental para minimizar errores humanos que puedan comprometer la seguridad.
+- Ejemplo: El equipo de TI de un hotel organiza capacitaciones periódicas para el personal de recepción sobre el uso seguro de los sistemas de reservas y la protección de los datos de los huéspedes.
+
+6.4 Proceso disciplinario
+- Descripción: Debe existir un proceso formal para gestionar violaciones a las políticas de seguridad de la información. Este proceso puede incluir medidas disciplinarias o sanciones si los empleados no cumplen con los requisitos de seguridad establecidos.
+- Ejemplo: Si un empleado del hotel comparte su contraseña con un compañero, el hotel puede implementar un proceso disciplinario que podría incluir advertencias formales o suspensiones.
+
+6.5 Responsabilidades después de la terminación o cambio de empleo
+- Descripción: Una vez que un empleado abandona la organización o cambia de rol, se deben revocar inmediatamente todos los accesos a los sistemas de información y recuperar los activos de la empresa (dispositivos, tarjetas de acceso, etc.). También es importante garantizar que las obligaciones de confidencialidad sigan vigentes.
+- Ejemplo: Cuando un empleado de TI deja el hotel, se le retira el acceso a las bases de datos de huéspedes y se recuperan sus dispositivos corporativos, como laptops o tarjetas de acceso.
+
+6.6 Confidencialidad y no divulgación de acuerdos
+- Descripción: Incluso después de la terminación del empleo, los empleados deben seguir respetando los acuerdos de confidencialidad y no divulgación de la información de la empresa. Esto asegura que la información crítica o sensible no sea compartida de manera no autorizada después de dejar la organización.
+- Ejemplo: Un ex-gerente de un hotel debe seguir respetando los acuerdos de confidencialidad y no puede compartir detalles sobre las políticas de precios o información de clientes, incluso después de dejar el cargo.
+
+6.7 Trabajo Remoto
+- Descripción: El trabajo remoto introduce nuevos riesgos para la seguridad de la información, por lo que se deben implementar políticas específicas para garantizar que los empleados que trabajan desde casa o fuera de las instalaciones de la empresa sigan cumpliendo con los controles de seguridad.
+- Ejemplo: El hotel establece que los empleados que trabajan de forma remota deben utilizar una VPN para acceder a los sistemas corporativos y autenticación de dos factores para reforzar la seguridad.
+
+6.8 Informes de eventos de seguridad de la información
+- Descripción: Los empleados deben estar capacitados para reconocer y reportar incidentes de seguridad de la información de manera rápida y efectiva. Esto es clave para asegurar que los problemas sean identificados y gestionados antes de que se conviertan en riesgos mayores.
+- Ejemplo: Si un empleado nota un acceso no autorizado a un sistema, debe reportarlo inmediatamente al equipo de seguridad de la información del hotel para que puedan investigarlo y resolverlo.
+
+
+Resultado:
+Estos controles relacionados con las personas están diseñados para asegurar que la seguridad de la información esté gestionada de manera adecuada en todos los aspectos de la relación laboral. Desde la verificación previa al empleo, pasando por la capacitación en seguridad, hasta la gestión de la terminación de un empleado, cada control garantiza que los riesgos humanos sean gestionados adecuadamente.

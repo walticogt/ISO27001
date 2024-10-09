@@ -1,0 +1,63 @@
+Controles Físicos relacionados con el Anexo A.11 de la ISO 27001 sobre Seguridad Física y Ambiental. 
+
+7.1 Perímetros de seguridad física
+- Descripción: Se deben implementar controles para proteger los perímetros de las instalaciones, asegurando que solo las personas autorizadas puedan acceder a las áreas sensibles.
+- Ejemplo: Colocar cercas, cámaras de vigilancia y guardias de seguridad alrededor del hotel para proteger las áreas críticas como los servidores o centros de datos.
+
+7.2 Entradas físicas
+- Descripción: El acceso a las instalaciones y áreas sensibles debe ser controlado y monitoreado, garantizando que solo las personas autorizadas puedan ingresar.
+- Ejemplo: Uso de tarjetas de acceso, lectores biométricos o claves para entrar en salas de servidores u otras áreas con datos críticos del hotel.
+
+7.3 Aseguramiento de oficinas, cuartos e instalaciones
+- Descripción: Las áreas de trabajo o salas que contienen información sensible deben estar protegidas de accesos no autorizados mediante cerraduras o sistemas de control de acceso.
+- Ejemplo: Las oficinas de TI o los cuartos donde se encuentran los servidores deben estar cerradas con acceso controlado.
+
+7.4 Monitoreo de la seguridad física
+- Descripción: Debe implementarse monitoreo constante mediante sistemas como cámaras de vigilancia o sensores que detecten accesos no autorizados.
+- Ejemplo: Cámaras de seguridad instaladas en el hotel que vigilan las áreas donde se almacenan los equipos de TI y los centros de datos.
+
+7.5 Protección contra amenazas físicas y del entorno
+- Descripción: Se deben implementar medidas para proteger las instalaciones contra desastres naturales, incendios, inundaciones o robos.
+- Ejemplo: Implementación de detectores de humo, sistemas de control contra incendios y planes de contingencia para inundaciones en áreas sensibles del hotel.
+
+7.6 Trabajo en áreas seguras
+- Descripción: Solo las personas autorizadas deben trabajar en áreas donde se maneje información crítica o confidencial, y estas áreas deben ser físicamente seguras.
+- Ejemplo: Las áreas donde se procesan datos de clientes o financieros deben estar restringidas para empleados no autorizados.
+
+7.7 Escritorio y pantalla limpia
+- Descripción: Las políticas de escritorio limpio aseguran que los documentos y equipos con información sensible no queden desatendidos, y las políticas de pantalla limpia evitan que la información sea visible para personas no autorizadas.
+- Ejemplo: El personal de recepción del hotel debe asegurarse de que la pantalla de la computadora esté bloqueada cuando no esté en uso, y todos los documentos deben guardarse en archivadores cerrados.
+
+7.8 Protección y disposición de equipos
+- Descripción: Se deben implementar controles para proteger los equipos físicos (como servidores, computadoras, dispositivos de red) y asegurar su correcta disposición cuando ya no sean utilizados.
+- Ejemplo: El hotel debe asegurarse de que los servidores desechados sean destruidos de manera segura para evitar la recuperación de datos sensibles.
+
+7.9 Seguridad de los activos fuera de las instalaciones
+- Descripción: Se deben establecer políticas para asegurar que los activos (como laptops, discos duros) utilizados fuera de las instalaciones estén protegidos.
+- Ejemplo: Las laptops que los empleados del hotel utilizan fuera de las instalaciones deben estar protegidas con cifrado de disco completo.
+
+7.10 Medios de almacenamiento
+- Descripción: Los medios de almacenamiento físico (discos duros, USB, etc.) deben estar protegidos adecuadamente y eliminados de manera segura cuando ya no sean necesarios.
+- Ejemplo: Cualquier USB o disco duro que contenga información de clientes debe ser cifrado, y al final de su vida útil, debe ser destruido de manera segura.
+
+
+7.11 Utilidades de apoyo
+- Descripción: Asegura que las utilidades esenciales (como energía eléctrica, aire acondicionado, y otras infraestructuras de apoyo) funcionen adecuadamente para mantener el ambiente seguro y evitar interrupciones que puedan afectar la seguridad de la información.
+- Ejemplo: El hotel asegura que los centros de datos estén equipados con sistemas de respaldo de energía (UPS) para garantizar el funcionamiento continuo de los servidores, incluso en caso de apagón.
+
+7.12 Seguridad del cableado
+- Descripción: Implementar medidas para proteger el cableado de las redes y otros sistemas críticos de posibles daños, interferencias o accesos no autorizados.
+- Ejemplo: El hotel protege los cables de red que conectan los sistemas de reservas con la infraestructura de TI para evitar interferencias o manipulaciones no autorizadas.
+
+7.13 Equipos de mantenimiento
+- Descripción: Se deben controlar los equipos de mantenimiento que se utilicen en las instalaciones de la organización para evitar que sean manipulados indebidamente o comprometan la seguridad.
+- Ejemplo: El hotel establece procedimientos para asegurar que solo personal autorizado pueda utilizar y mantener los equipos de TI, asegurando que cualquier reparación o mantenimiento cumpla con las políticas de seguridad.
+
+7.14 Eliminación segura o reutilización de equipo
+- Descripción: Deben establecerse procedimientos para garantizar que los equipos de TI, discos duros y otros dispositivos que contienen información sensible se eliminen o reutilicen de manera segura.
+- Ejemplo: Antes de desechar o reutilizar los equipos antiguos, el hotel realiza un borrado seguro de los discos duros para evitar que se pueda recuperar cualquier dato de los huéspedes o empleados.
+
+Resultado:
+Estos controles físicos están diseñados para proteger las instalaciones y equipos de la organización contra accesos no autorizados, amenazas ambientales y otros riesgos físicos. Es fundamental implementarlos en áreas críticas para garantizar que la información y los sistemas de la organización estén protegidos tanto dentro como fuera de las instalaciones.
+
+Estos controles físicos adicionales se enfocan en la infraestructura y el manejo adecuado de equipos críticos para garantizar la seguridad de la información. Al implementar estos controles, la organización asegura que el soporte técnico y los equipos sean gestionados de forma segura, evitando cualquier acceso no autorizado o pérdida de datos
